@@ -1,6 +1,6 @@
-# **[Thomas Muli]**  
+# **Thomas Muli**  
 **Full-Stack Developer & Customer Support Specialist**  
-📍 [Nairobi, KE] | 📧 [tm.mully@gmail.com] | 🌐 [https://tomtheflutterdev.com/] | 📱 [+254 740 799 150] | 💼 [https://www.linkedin.com/in/thomas-muli-279852170/]
+📍 Nairobi, KE | 📧 tm.mully@gmail.com | 🌐 https://tomtheflutterdev.com/ | 📱 +254 740 799 150 | 💼 https://www.linkedin.com/in/thomas-muli-279852170/
 
 ---
 
