@@ -25,8 +25,8 @@ Looking to collaborate on:
 
 ## 📫 Connect With Me  
 - 🐦 Twitter: [@MullyJnr](https://twitter.com/MullyJnr)  
-- 💼 LinkedIn: *(Insert your LinkedIn if available)*  
-- 🌎 Portfolio: *(Insert your portfolio link if available)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/thomas-muli-279852170/
+- 🌎 Portfolio: https://tomtheflutterdev.com/
 
 ## 😄 Fun Fact  
 I'm a **perfectionist** who loves **clean code, great UI design, and automation**. 🚀  
